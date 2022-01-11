@@ -11,3 +11,5 @@ repo_url: https://github.com/kimkroener/mkdocs-exercise
 edit_uri: edit/main/docs/
 
 site_author: kimkroener
+
+extra_css: [extra.css]
