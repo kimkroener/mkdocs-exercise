@@ -1,1 +1,13 @@
-site_name: My Docs
+site_name: SSE Documentation Example
+
+nav: 
+    - Home: 'index.md'
+    - 'User Guide':
+        - 'Installation': 'compilation-and-installation.md'
+        - 'Getting Started': 'how-to.md'
+
+repo_url: https://github.com/kimkroener/mkdocs-exercise
+
+edit_uri: edit/main/docs/
+
+site_author: kimkroener
